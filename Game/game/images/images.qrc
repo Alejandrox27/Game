@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>corazon.gif</file>
+    <file>corazon.png</file>
+  </qresource>
+</RCC>
